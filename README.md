@@ -49,4 +49,4 @@ $(function() {
 
 ## Screenshots
 
-![Image of Plugin](https://raw.githubusercontent.com/techdining/LinesTextArea-JQueryPlugin/master/screenshots/screenshot.PNG)
+![Image of Plugin](https://raw.githubusercontent.com/sreekarsudireddy/LinedTextArea-JQueryPlugin/master/screenshots/screenshot.PNG)
